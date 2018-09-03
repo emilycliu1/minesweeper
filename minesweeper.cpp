@@ -105,7 +105,6 @@ int main()
 {
   populate(board); // fills up the user's board
   populateMap(); // creates map  
-  printArray(map);
   printArray(board);
   playGame();
   return 0;
