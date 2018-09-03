@@ -2,8 +2,8 @@
 using namespace std;
 
 // VARIABLES ======================================================================
-const int BOARD_SIZE = 3; // dimensions for board
-const int MAX_MINES = 3; // maximum number of mines that can be on the board
+const int BOARD_SIZE = 10; // dimensions for board
+const int MAX_MINES = 10; // maximum number of mines that can be on the board
 const char UNSEEN = '-';
 const char BOMB = 'X';
 const char FLAG = '+';
